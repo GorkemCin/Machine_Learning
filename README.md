@@ -34,7 +34,5 @@ In this project, a prediction model has been built by applying Multiple Linear R
 - Matplotlib  
 - Jupyter Notebook
 
----
 
-## 📁 Dosya Yapısı / File Structure
 
