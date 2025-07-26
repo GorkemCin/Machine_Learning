@@ -27,7 +27,7 @@ In this project, a prediction model has been built by applying Multiple Linear R
 
 ## 🧪 Kullanılan Teknolojiler / Technologies Used
 
-- Python 3.x  
+- Python  
 - Pandas  
 - NumPy  
 - scikit-learn  
