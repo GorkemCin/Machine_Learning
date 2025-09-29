@@ -7,9 +7,9 @@ Machine Learning
 
 ---
 
-## 🎯 Problem Tanımı / Problem Definition
-
 📌 Proje 1: Multiple Linear Regression
+
+## 🎯 Problem Tanımı / Problem Definition
 
 Bu projede, öğrenci performans verileri üzerinden çoklu doğrusal regresyon (Multiple Linear Regression) uygulanarak bir tahmin modeli geliştirilmiştir.  
 In this project, a prediction model has been built by applying Multiple Linear Regression on student performance data.
