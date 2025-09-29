@@ -31,7 +31,8 @@ In this project, a prediction model has been built by applying Multiple Linear R
 - Pandas  
 - NumPy  
 - scikit-learn  
-- Matplotlib  
+- Matplotlib
+- seaborn 
 - Jupyter Notebook
 
 
