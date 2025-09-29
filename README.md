@@ -63,4 +63,12 @@ The goal is to apply the KNN algorithm to classify house prices and evaluate the
 
 ---
 
-
+### 🛠️ Kullanılan Teknolojiler / Technologies Used
+- Python  
+- Pandas  
+- NumPy  
+- scikit-learn  
+- category_encoders  
+- Matplotlib  
+- Seaborn  
+- Jupyter Notebook  
