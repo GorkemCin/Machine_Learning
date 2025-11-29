@@ -15,12 +15,11 @@ Machine Learning
 
 # 📚 İçindekiler / Table of Contents
 
-- 🌳 [Project 1: Multiple Linear Regression / Proje 1: Çoklu Doğrusal Regresyon](#project-1-multiple-linear-regression--proje-1-coklu-dogrusal-regresyon)
+- 🌳 **[Project 1: Multiple Linear Regression / Proje 1: Çoklu Doğrusal Regresyon](https://github.com/GorkemCin/Machine_Learning/blob/main/README.md#-project-1-multiple-linear-regression--proje-1-%C3%A7oklu-do%C4%9Frusal-regresyon)**
 
-- 🏡 [Project 2: K-Nearest Neighbors (KNN) / Proje 2: K-En Yakın Komşu (KNN)](#project-2-k-nearest-neighbors-knn--proje-2-k-en-yakin-komsu-knn)
+- 🏡 **[Project 2: K-Nearest Neighbors (KNN) / Proje 2: K-En Yakın Komşu (KNN)](https://github.com/GorkemCin/Machine_Learning/blob/main/README.md#-project-2-k-nearest-neighbors-knn--proje-2-k-en-yak%C4%B1n-kom%C5%9Fu-knn)**
 
-- 💊 [Project 3: Decision Tree Classifier / Proje 3: Karar Ağacı Sınıflandırıcı](#project-3-decision-tree-classifier--proje-3-karar-agaci-siniflandirici)
-
+- 💊 **[Project 3: Decision Tree Classifier / Proje 3: Karar Ağacı Sınıflandırıcı](https://github.com/GorkemCin/Machine_Learning/blob/main/README.md#-project-3-decision-tree-classifier--proje-3-karar-a%C4%9Fac%C4%B1-s%C4%B1n%C4%B1fland%C4%B1r%C4%B1c%C4%B1)**
 
 ---
 
