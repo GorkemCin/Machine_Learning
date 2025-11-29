@@ -13,24 +13,32 @@ Machine Learning
 
 ---
 
-## 📚 İçindekiler / Table of Contents
+📚 İçindekiler / Table of Contents
+🌳 Proje 1: Multiple Linear Regression
 
-- 🌳 [Proje 1: Multiple Linear Regression](#-proje-1-multiple-linear-regression)
-  - 🔍 [Proje 1 – Problem Tanımı](#-proje-1--problem-tanımı--problem-definition)
-  - 📘 [Proje 1 – Kullanılan Konular](#-proje-1--kullanılan-konular--topics-covered)
-  - 🛠️ [Proje 1 – Kullanılan Teknolojiler](#-proje-1--kullanılan-teknolojiler--technologies-used)
+🔍 Proje 1 – Problem Tanımı
 
-- 🏡 [Proje 2: K-Nearest Neighbors (KNN)](#-proje-2-k-nearest-neighbors-knn)
-  - 🔍 [Proje 2 – Problem Tanımı](#-proje-2--problem-tanımı--problem-definition)
-  - 📘 [Proje 2 – Kullanılan Konular](#-proje-2--kullanılan-konular--topics-covered)
-  - 🛠️ [Proje 2 – Kullanılan Teknolojiler](#-proje-2--kullanılan-teknolojiler--technologies-used)
+📘 Proje 1 – Kullanılan Konular
 
-- 💊 [Proje 3: Decision Tree Classifier](#-proje-3-decision-tree-classifier-ilaç-sınıflandırma)
-  - 🔍 [Proje 3 – Problem Tanımı](#-proje-3--problem-tanımı--problem-definition)
-  - 📘 [Proje 3 – Kullanılan Konular](#-proje-3--kullanılan-konular--topics-covered)
-  - 🛠️ [Proje 3 – Kullanılan Teknolojiler](#-proje-3--kullanılan-teknolojiler--technologies-used)
-  - 🎯 [Proje 3 – Kısa Özet](#-proje-3--projenin-kısa-özeti--short-summary-of-the-project)
+🛠️ Proje 1 – Kullanılan Teknolojiler
 
+🏡 Proje 2: K-Nearest Neighbors (KNN)
+
+🔍 Proje 2 – Problem Tanımı
+
+📘 Proje 2 – Kullanılan Konular
+
+🛠️ Proje 2 – Kullanılan Teknolojiler
+
+💊 Proje 3: Decision Tree Classifier
+
+🔍 Proje 3 – Problem Tanımı
+
+📘 Proje 3 – Kullanılan Konular
+
+🛠️ Proje 3 – Kullanılan Teknolojiler
+
+🎯 Proje 3 – Kısa Özet
 
 ---
 
