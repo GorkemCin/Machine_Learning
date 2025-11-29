@@ -4,7 +4,7 @@
 
 <h2 align="center">👨‍💻 Görkem Cin</h2>
 <p align="center">
-  Machine Learning & Data Science Learner  
+  Machine Learning & Data Science   
   <br>
   📍 Türkiye  
 </p>
