@@ -1,31 +1,33 @@
-<!-- ====================== -->
-<!--      AUTHOR CARD       -->
-<!-- ====================== -->
+<!-- ========================= -->
+<!-- 🔥 AUTHOR / PROFILE BANNER -->
+<!-- ========================= -->
 
-<h2 align="center">👨‍💻 Görkem Cin</h2>
-<p align="center">
-  Machine Learning & Data Science   
-  <br>
-  📍 Türkiye  
-</p>
+<h1 align="center">👨‍💻 Görkem Cin</h1>
+<p align="center">Machine Learning & Data Science</p>
+<p align="center">📍 Türkiye</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gorkem-cin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="https://www.linkedin.com/in/gorkem-cin/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/GorkemCin" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:gorkemcingc@gmail.com">
-    <img src="https://img.shields.io/badge/Email-gorkemcingc%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Author-Görkem%20Cin-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Focus-Supervised%20Learning-brightgreen?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Python-3.10-yellow?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Author-Görkem%20Cin-4B9CD3?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Supervised%20Learning-28A745?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python_3.13.3-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 </p>
+
+---
+
+# 🧠 Machine Learning Projects
+### _Supervised Learning Portfolio (Regression, KNN, Decision Tree)_
 
 ---
 
