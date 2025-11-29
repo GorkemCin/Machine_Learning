@@ -13,11 +13,14 @@ Machine Learning
 
 ---
 
-# 📚 İçindekiler / Table of Contents
+## 📚 İçindekiler / Table of Contents
 
-- 🌳 [Project 1: Multiple Linear Regression / Proje 1: Çoklu Doğrusal Regresyon](#project-1-multiple-linear-regression--proje-1-çoklu-doğrusal-regresyon)
-- 🏡 [Project 2: K-Nearest Neighbors (KNN) / Proje 2: K-En Yakın Komşu (KNN)](#project-2-k-nearest-neighbors-knn--proje-2-k-en-yakın-komşu-knn)
-- 💊 [Project 3: Decision Tree Classifier / Proje 3: Karar Ağacı Sınıflandırıcı](#project-3-decision-tree-classifier--proje-3-karar-ağacı-sınıflandırıcı)
+- 🌳 [Project 1: Multiple Linear Regression / Proje 1: Çoklu Doğrusal Regresyon](#project-1-multiple-linear-regression--proje-1-coklu-dogrusal-regresyon)
+
+- 🏡 [Project 2: K-Nearest Neighbors (KNN) / Proje 2: K-En Yakın Komşu (KNN)](#project-2-k-nearest-neighbors-knn--proje-2-k-en-yakin-komsu-knn)
+
+- 💊 [Project 3: Decision Tree Classifier / Proje 3: Karar Ağacı Sınıflandırıcı](#project-3-decision-tree-classifier--proje-3-karar-agaci-siniflandirici)
+
 
 ---
 
