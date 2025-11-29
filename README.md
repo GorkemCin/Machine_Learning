@@ -13,7 +13,7 @@ Machine Learning
 
 ---
 
-## 📚 İçindekiler / Table of Contents
+# 📚 İçindekiler / Table of Contents
 
 - 🌳 [Project 1: Multiple Linear Regression / Proje 1: Çoklu Doğrusal Regresyon](#project-1-multiple-linear-regression--proje-1-coklu-dogrusal-regresyon)
 
