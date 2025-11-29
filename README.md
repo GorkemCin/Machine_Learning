@@ -110,6 +110,7 @@ The objective is to classify drugs using a Decision Tree algorithm and evaluate 
 - scikit-learn
 - Matplotlib
 - Seaborn
+- Jupyter Notebook
 
 ---
 
