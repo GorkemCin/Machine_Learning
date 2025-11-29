@@ -52,6 +52,19 @@
 
 ---
 
+## 📊 Projects Overview / Proje Genel Bakışı
+
+A quick overview of all supervised learning projects included in this repository.  
+Bu depoda yer alan gözetimli öğrenme projelerinin genel özeti.
+
+| 🔢 Project | 📘 Technique / Metot | 📌 Description / Açıklama | ✅ Status |
+|-----------|----------------------|---------------------------|-----------|
+| 🌳 **Project 1: Multiple Linear Regression** | Regression | Predicting student performance using multi-feature linear regression. <br> Çoklu değişkenlerle öğrenci performansı tahmini. | ✔ Completed |
+| 🏡 **Project 2: K-Nearest Neighbors (KNN)** | Classification | House price classification (low/high) using KNN algorithm. <br> Ev fiyatlarının (düşük/yüksek) KNN ile sınıflandırılması. | ✔ Completed |
+| 💊 **Project 3: Decision Tree Classifier** | Classification | Predicting drug class based on medical attributes using Decision Trees. <br> Tıbbi özelliklere göre ilaç sınıfı tahmini. | ✔ Completed |
+
+---
+
 ## 🌳 Project 1: Multiple Linear Regression / Proje 1: Çoklu Doğrusal Regresyon
 
 ## 🎯 Problem Tanımı / Problem Definition
