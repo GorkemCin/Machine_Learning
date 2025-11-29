@@ -2,10 +2,10 @@ Machine Learning
 
 # machine_learning_with_supervised_models
 
-📘 Bu repo, gözetimli öğrenme (supervised learning) algoritmalarını öğrenmek amacıyla hazırlanmış kapsamlı bir çalışma koleksiyonudur.
+📘 Bu repo, gözetimli öğrenme (supervised learning) algoritmalarını öğrenmek amacıyla hazırlanmış kapsamlı bir çalışma koleksiyonudur.              
 🧠 Her proje, gerçek veri setleri üzerinde model geliştirme, hiperparametre optimizasyonu ve performans değerlendirme aşamalarını içermektedir.
 
-📘 This repository is a comprehensive collection of studies designed to learn supervised learning algorithms.
+📘 This repository is a comprehensive collection of studies designed to learn supervised learning algorithms.            
 🧠 Each project includes steps for model development, hyperparameter optimization, and performance evaluation using real-world datasets.
 
 📌 **Personal learning project on supervised machine learning algorithms using real-world datasets.**  
