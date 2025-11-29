@@ -41,7 +41,7 @@ In this project, a prediction model has been built by applying Multiple Linear R
 
 📌 Proje 2: K-Nearest Neighbors (KNN)
 
-### 📊 Problem Tanımı / Problem Definition
+## 📊 Problem Tanımı / Problem Definition
 
 Bu projede **House Prices** veri seti kullanılarak, evlerin fiyatlarının düşük (0) veya yüksek (1) olarak sınıflandırılması amaçlanmıştır.  
 Amacımız, KNN algoritması ile ev fiyatlarını sınıflandırmak ve modelin başarımını değerlendirmektir.
@@ -51,7 +51,7 @@ The goal is to apply the KNN algorithm to classify house prices and evaluate the
 
 ---
 
-### 📚 Kullanılan Konular / Topics Covered
+## 📚 Kullanılan Konular / Topics Covered
 - Veri temizleme / Data Cleaning  
 - Eksik verilerle başa çıkma / Handling Missing Data  
 - Kategorik verilerin sayısallaştırılması / Categorical Encoding (TargetEncoder)  
@@ -63,7 +63,7 @@ The goal is to apply the KNN algorithm to classify house prices and evaluate the
 
 ---
 
-### 🛠️ Kullanılan Teknolojiler / Technologies Used
+## 🛠️ Kullanılan Teknolojiler / Technologies Used
 - Python  
 - Pandas  
 - NumPy  
@@ -77,7 +77,7 @@ The goal is to apply the KNN algorithm to classify house prices and evaluate the
 
 📌 Proje 3: Decision Tree Classifier (İlaç Sınıflandırma)
 
-### 🧩 Problem Tanımı / Problem Definition
+## 🧩 Problem Tanımı / Problem Definition
 
 Bu projede, ilaç sınıflandırması (drug classification) veri seti kullanılarak, hastaların yaş, tansiyon (BP), kolesterol, sodyum-potasyum oranı (Na_to_K) gibi özelliklerine göre alacakları ilacın (drugA, drugB, drugC, drugX, drugY) tahmin edilmesi amaçlanmıştır.
 Amaç, Decision Tree algoritması ile ilaç sınıflarını yüksek doğrulukla tahmin etmek ve modelin performansını değerlendirmektir.
@@ -87,7 +87,7 @@ The objective is to classify drugs using a Decision Tree algorithm and evaluate 
 
 ---
 
-### 📘 Kullanılan Konular / Topics Covered
+## 📘 Kullanılan Konular / Topics Covered
 - Veri keşfi (EDA) / Exploratory Data Analysis
 - Veri görselleştirme / Data Visualization
 - Veri temizleme ve ön işleme / Data Cleaning & Preprocessing
@@ -103,7 +103,7 @@ The objective is to classify drugs using a Decision Tree algorithm and evaluate 
 
 --- 
 
-🛠 Kullanılan Teknolojiler / Technologies Used
+## 🛠 Kullanılan Teknolojiler / Technologies Used
 - Python
 - Pandas
 - NumPy
@@ -113,7 +113,7 @@ The objective is to classify drugs using a Decision Tree algorithm and evaluate 
 
 ---
 
-🎯 Projenin Kısa Özeti / Short Summary of the Project
+## 🎯 Projenin Kısa Özeti / Short Summary of the Project
 
 Bu çalışmada, Decision Tree algoritması kullanılarak hastalara uygun ilaç sınıfının tahmini yapılmıştır. Veri ön işleme, model eğitimi, GridSearchCV ile hiperparametre optimizasyonu ve performans değerlendirme adımları uygulanmıştır.
 Optimizasyon sonrası model hem eğitim hem test verisinde yüksek doğruluk göstermiştir.
