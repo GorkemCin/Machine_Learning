@@ -71,4 +71,52 @@ The goal is to apply the KNN algorithm to classify house prices and evaluate the
 - category_encoders  
 - Matplotlib  
 - Seaborn  
-- Jupyter Notebook  
+- Jupyter Notebook
+
+---
+
+📌 Proje 3: Decision Tree Classifier (İlaç Sınıflandırma)
+
+### 🧩 Problem Tanımı / Problem Definition
+
+Bu projede, ilaç sınıflandırması (drug classification) veri seti kullanılarak, hastaların yaş, tansiyon (BP), kolesterol, sodyum-potasyum oranı (Na_to_K) gibi özelliklerine göre alacakları ilacın (drugA, drugB, drugC, drugX, drugY) tahmin edilmesi amaçlanmıştır.
+Amaç, Decision Tree algoritması ile ilaç sınıflarını yüksek doğrulukla tahmin etmek ve modelin performansını değerlendirmektir.
+
+In this project, we use a drug classification dataset to predict which drug a patient should receive based on features such as age, blood pressure (BP), cholesterol, and sodium-potassium ratio (Na_to_K).
+The objective is to classify drugs using a Decision Tree algorithm and evaluate the model’s performance.
+
+---
+
+### 📘 Kullanılan Konular / Topics Covered
+- Veri keşfi (EDA) / Exploratory Data Analysis
+- Veri görselleştirme / Data Visualization
+- Veri temizleme ve ön işleme / Data Cleaning & Preprocessing
+- Kategorik verilerin dönüştürülmesi / Categorical Encoding
+- Eğitim–test ayrımı / Train-Test Split
+- Decision Tree modeli kurulumu / Building a Decision Tree Classifier
+- Hiperparametre optimizasyonu / Hyperparameter Tuning (GridSearchCV)
+- Model değerlendirme / Model Evaluation
+- Accuracy, Precision, Recall, F1-score
+- Eğitim–test performans karşılaştırması
+- Confusion Matrix
+- Decision Tree görselleştirme
+
+--- 
+
+🛠 Kullanılan Teknolojiler / Technologies Used
+- Python
+- Pandas
+- NumPy
+- scikit-learn
+- Matplotlib
+- Seaborn
+
+---
+
+🎯 Projenin Kısa Özeti / Short Summary of the Project
+
+Bu çalışmada, Decision Tree algoritması kullanılarak hastalara uygun ilaç sınıfının tahmini yapılmıştır. Veri ön işleme, model eğitimi, GridSearchCV ile hiperparametre optimizasyonu ve performans değerlendirme adımları uygulanmıştır.
+Optimizasyon sonrası model hem eğitim hem test verisinde yüksek doğruluk göstermiştir.
+
+In this study, the Decision Tree algorithm is applied to predict the appropriate drug class for patients. Data preprocessing, model training, hyperparameter tuning with GridSearchCV, and performance evaluation steps were performed.
+The optimized model achieved high accuracy on both training and test sets.
