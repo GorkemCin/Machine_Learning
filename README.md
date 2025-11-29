@@ -13,13 +13,18 @@ Machine Learning
 
 ---
 
-📚 İçindekiler / Table of Contents
+📚 İçindekiler
 
-🔍 Problem Tanımı / Problem Definition
-📊 Kullanılan Konular / Topics Covered
+🔎 Problem Tanımı / Problem Definition
+
+📘 Kullanılan Konular / Topics Covered
+
 🛠️ Kullanılan Teknolojiler / Technologies Used
+
 🌳 Proje 1: Multiple Linear Regression
+
 🏡 Proje 2: K-Nearest Neighbors (KNN)
+
 💊 Proje 3: Decision Tree Classifier (İlaç Sınıflandırma)
 
 ---
