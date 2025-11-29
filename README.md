@@ -1,3 +1,16 @@
+<h1 align="center">🧠 Machine Learning Projects</h1>
+<h3 align="center">Supervised Learning Portfolio (Regression, KNN, Decision Tree)</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10-blue">
+  <img src="https://img.shields.io/badge/Scikit--Learn-ML%20Models-orange">
+  <img src="https://img.shields.io/badge/Project%20Status-Completed-brightgreen">
+  <img src="https://img.shields.io/badge/Algorithms-Supervised%20Learning-yellow">
+  <img src="https://img.shields.io/badge/Environment-Jupyter%20Notebook-red">
+</p>
+
+---
+
 Machine Learning
 
 # machine_learning_with_supervised_models
