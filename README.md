@@ -13,15 +13,15 @@ Machine Learning
 
 ---
 
-## 📚 İçindekiler / Table of Contents
+# 📚 İçindekiler / Table of Contents
 
-- 🌳 [Proje 1: Multiple Linear Regression](#proje-1-multiple-linear-regression)
-- 🏡 [Proje 2: K-Nearest Neighbors (KNN)](#proje-2-k-nearest-neighbors-knn)
-- 💊 [Proje 3: Decision Tree Classifier (İlaç Sınıflandırma)](#proje-3-decision-tree-classifier-ilaç-sınıflandırma)
+- 🌳 [Proje 1: Multiple Linear Regression](#-proje-1-multiple-linear-regression)
+- 🏡 [Proje 2: K-Nearest Neighbors (KNN)](#-proje-2-k-nearest-neighbors-knn)
+- 💊 [Proje 3: Decision Tree](#-proje-3-decision-tree)
 
 ---
 
-📌 Proje 1: Multiple Linear Regression
+## 🌳 Proje 1: Multiple Linear Regression
 
 ## 🎯 Problem Tanımı / Problem Definition
 
@@ -53,7 +53,7 @@ In this project, a prediction model has been built by applying Multiple Linear R
 
 ---
 
-📌 Proje 2: K-Nearest Neighbors (KNN)
+## 🏡 Proje 2: K-Nearest Neighbors (KNN)
 
 ## 📊 Problem Tanımı / Problem Definition
 
@@ -89,7 +89,7 @@ The goal is to apply the KNN algorithm to classify house prices and evaluate the
 
 ---
 
-📌 Proje 3: Decision Tree Classifier (İlaç Sınıflandırma)
+## 💊 Proje 3: Decision Tree 
 
 ## 🧩 Problem Tanımı / Problem Definition
 
