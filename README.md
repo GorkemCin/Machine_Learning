@@ -52,6 +52,8 @@
 
 - 💊 **[Project 3: Decision Tree Classifier / Proje 3: Karar Ağacı Sınıflandırıcı](https://github.com/GorkemCin/Machine_Learning/blob/main/README.md#-project-3-decision-tree-classifier--proje-3-karar-a%C4%9Fac%C4%B1-s%C4%B1n%C4%B1fland%C4%B1r%C4%B1c%C4%B1)**
 
+- 🌲 **[Project 4: Random Forest Classification / Proje 4: Random Forest Sınıflandırma](#-project-4-random-forest-classification--proje-4-random-forest-s%C4%B1n%C4%B1fland%C4%B1rma)**
+
 ---
 
 ## 📊 Projects Overview / Proje Genel Bakışı
@@ -59,11 +61,12 @@
 A quick overview of all supervised learning projects included in this repository.  
 Bu depoda yer alan gözetimli öğrenme projelerinin genel özeti.
 
-| 🔢 Project | 📘 Technique / Metot | 📌 Description / Açıklama | ✅ Status |
-|-----------|----------------------|---------------------------|-----------|
-| 🌳 **Project 1: Multiple Linear Regression** | Regression | Predicting student performance using multi-feature linear regression. <br> Çoklu değişkenlerle öğrenci performansı tahmini. | ✔ Completed |
-| 🏡 **Project 2: K-Nearest Neighbors (KNN)** | Classification | House price classification (low/high) using KNN algorithm. <br> Ev fiyatlarının (düşük/yüksek) KNN ile sınıflandırılması. | ✔ Completed |
-| 💊 **Project 3: Decision Tree Classifier** | Classification | Predicting drug class based on medical attributes using Decision Trees. <br> Tıbbi özelliklere göre ilaç sınıfı tahmini. | ✔ Completed |
+| 🧩 Project | 🧠 Technique / Metot | 📌 Description / Açıklama | ✅ Status |
+|-----------|---------------------|---------------------------|----------|
+| 🌿 **Project 1: Multiple Linear Regression** | Regression | Predicting student performance using multi-feature linear regression. <br> Çoklu değişkenlerle öğrenci performansı tahmini. | ✔ Completed |
+| 🏠 **Project 2: K-Nearest Neighbors (KNN)** | Classification | House price classification (low/high) using KNN algorithm. <br> Ev fiyatlarının (düşük/yüksek) KNN ile sınıflandırılması. | ✔ Completed |
+| 🌳 **Project 3: Decision Tree Classifier** | Classification | Predicting drug class based on medical attributes using Decision Trees. <br> Tıbbi özelliklere göre ilaç sınıfı tahmini. | ✔ Completed |
+| 🌲 **Project 4: Random Forest Classifier** | Classification | Binary classification using Random Forest with hyperparameter tuning (GridSearchCV). <br> GridSearchCV ile optimize edilmiş Random Forest kullanarak ikili sınıflandırma. | ✔ Completed |
 
 ---
 
@@ -183,6 +186,63 @@ In this study, the Decision Tree algorithm is applied to predict the appropriate
 The optimized model achieved high accuracy on both training and test sets.
 
 ---
+
+## 🌲 Project 4: Random Forest Classification / Proje 4: Random Forest Sınıflandırma
+
+🎯 Problem Tanımı / Problem Definition
+
+Bu projede, medikal veriler kullanılarak **Random Forest Classification** algoritması ile ikili sınıflandırma problemi çözülmüştür. Amaç, bireylerin hedef sınıfa ait olup olmadığını doğru şekilde tahmin eden güçlü ve genellenebilir bir model geliştirmektir.
+
+In this project, a **Random Forest Classification** model is built using medical data to solve a binary classification problem. The goal is to develop a robust and well-generalizing model that accurately predicts whether an individual belongs to the target class.
+
+---
+
+🔍 Kullanılan Konular / Topics Covered
+
+- Veri analizi ve ön işleme / Exploratory Data Analysis (EDA)
+- Eksik veri kontrolü / Missing value handling
+- Kategorik değişken kodlama / Categorical encoding
+- Özellik mühendisliği / Feature engineering
+- Random Forest Classification
+- Model değerlendirme / Model evaluation
+- Confusion Matrix & Classification Report
+- Feature Importance analizi
+- Hyperparameter Tuning (GridSearchCV)
+- Baseline vs Optimized model karşılaştırması
+
+---
+
+🧪 Kullanılan Teknolojiler / Technologies Used
+
+- Python  
+- Pandas  
+- NumPy  
+- scikit-learn  
+- Matplotlib  
+- Seaborn  
+- Jupyter Notebook  
+
+---
+
+📊 Model Değerlendirme / Model Evaluation
+
+- Accuracy  
+- Precision  
+- Recall  
+- F1-score  
+- Confusion Matrix  
+- Cross-Validation (CV) Accuracy  
+
+---
+
+🏁 Sonuç & Değerlendirme / Conclusion
+
+Bu çalışmada Random Forest modeli, baseline ayarlarla dahi güçlü ve dengeli bir performans sergilemiştir (~%88 accuracy). GridSearchCV ile yapılan hiperparametre optimizasyonu sonucunda test performansında anlamlı bir artış gözlemlenmemiştir. Bu durum, başlangıç modelinin zaten iyi genelleme yapan ve overfitting riski düşük bir yapıya sahip olduğunu göstermektedir.
+
+Sonuç olarak, hiperparametre optimizasyonu her zaman performans artışı sağlamasa da, modelin doğru ayarlarla çalıştığını doğrulamak ve en iyi parametre kombinasyonunu güvenle seçmek açısından önemli bir adımdır.
+
+In conclusion, although hyperparameter tuning did not significantly improve test performance, it confirmed that the baseline Random Forest model was already well-optimized and robust.
+
 
 <div align="center">
 
