@@ -187,7 +187,7 @@ The optimized model achieved high accuracy on both training and test sets.
 
 ---
 
-##🌲 Project 4: Random Forest Classification / Proje 4: Random Forest Sınıflandırma
+## 🌲 Project 4: Random Forest Classification / Proje 4: Random Forest Sınıflandırma
 
 🎯 Problem Tanımı / Problem Definition
 
