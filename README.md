@@ -50,7 +50,7 @@
 
 - 🏡 **[Project 2: K-Nearest Neighbors (KNN) / Proje 2: K-En Yakın Komşu (KNN)](https://github.com/GorkemCin/Machine_Learning/blob/main/README.md#-project-2-k-nearest-neighbors-knn--proje-2-k-en-yak%C4%B1n-kom%C5%9Fu-knn)**
 
-- 💊 **[Project 3: Decision Tree Classifier / Proje 3: Karar Ağacı Sınıflandırıcı](https://github.com/GorkemCin/Machine_Learning/blob/main/README.md#-project-3-decision-tree-classifier--proje-3-karar-a%C4%9Fac%C4%B1-s%C4%B1n%C4%B1fland%C4%B1r%C4%B1c%C4%B1)**-
+- 💊 **[Project 3: Decision Tree Classifier / Proje 3: Karar Ağacı Sınıflandırıcı](https://github.com/GorkemCin/Machine_Learning/blob/main/README.md#-project-3-decision-tree-classifier--proje-3-karar-a%C4%9Fac%C4%B1-s%C4%B1n%C4%B1fland%C4%B1r%C4%B1c%C4%B1)**
 
 - 🌲 **[Project 4: Random Forest Classification / Proje 4: Random Forest Sınıflandırma](https://github.com/GorkemCin/Machine_Learning/blob/main/README.md#project-4-random-forest-classification--proje-4-random-forest-s%C4%B1n%C4%B1fland%C4%B1rma)**
 
@@ -61,11 +61,12 @@
 A quick overview of all supervised learning projects included in this repository.  
 Bu depoda yer alan gözetimli öğrenme projelerinin genel özeti.
 
-| 🔢 Project | 📘 Technique / Metot | 📌 Description / Açıklama | ✅ Status |
-|-----------|----------------------|---------------------------|-----------|
-| 🌳 **Project 1: Multiple Linear Regression** | Regression | Predicting student performance using multi-feature linear regression. <br> Çoklu değişkenlerle öğrenci performansı tahmini. | ✔ Completed |
-| 🏡 **Project 2: K-Nearest Neighbors (KNN)** | Classification | House price classification (low/high) using KNN algorithm. <br> Ev fiyatlarının (düşük/yüksek) KNN ile sınıflandırılması. | ✔ Completed |
-| 💊 **Project 3: Decision Tree Classifier** | Classification | Predicting drug class based on medical attributes using Decision Trees. <br> Tıbbi özelliklere göre ilaç sınıfı tahmini. | ✔ Completed |
+| 🧩 Project | 🧠 Technique / Metot | 📌 Description / Açıklama | ✅ Status |
+|-----------|---------------------|---------------------------|----------|
+| 🌿 **Project 1: Multiple Linear Regression** | Regression | Predicting student performance using multi-feature linear regression. <br> Çoklu değişkenlerle öğrenci performansı tahmini. | ✔ Completed |
+| 🏠 **Project 2: K-Nearest Neighbors (KNN)** | Classification | House price classification (low/high) using KNN algorithm. <br> Ev fiyatlarının (düşük/yüksek) KNN ile sınıflandırılması. | ✔ Completed |
+| 🌳 **Project 3: Decision Tree Classifier** | Classification | Predicting drug class based on medical attributes using Decision Trees. <br> Tıbbi özelliklere göre ilaç sınıfı tahmini. | ✔ Completed |
+| 🌲 **Project 4: Random Forest Classifier** | Classification | Binary classification using Random Forest with hyperparameter tuning (GridSearchCV). <br> GridSearchCV ile optimize edilmiş Random Forest kullanarak ikili sınıflandırma. | ✔ Completed |
 
 ---
 
@@ -186,7 +187,7 @@ The optimized model achieved high accuracy on both training and test sets.
 
 ---
 
-🌲 Project 4: Random Forest Classification / Proje 4: Random Forest Sınıflandırma
+##🌲 Project 4: Random Forest Classification / Proje 4: Random Forest Sınıflandırma
 
 🎯 Problem Tanımı / Problem Definition
 
