@@ -52,7 +52,7 @@
 
 - 💊 **[Project 3: Decision Tree Classifier / Proje 3: Karar Ağacı Sınıflandırıcı](https://github.com/GorkemCin/Machine_Learning/blob/main/README.md#-project-3-decision-tree-classifier--proje-3-karar-a%C4%9Fac%C4%B1-s%C4%B1n%C4%B1fland%C4%B1r%C4%B1c%C4%B1)**
 
-- 🌲 **[Project 4: Random Forest Classification / Proje 4: Random Forest Sınıflandırma](https://github.com/GorkemCin/Machine_Learning/blob/main/README.md#project-4-random-forest-classification--proje-4-random-forest-s%C4%B1n%C4%B1fland%C4%B1rma)**
+- 🌲 **[Project 4: Random Forest Classification / Proje 4: Random Forest Sınıflandırma](#-project-4-random-forest-classification--proje-4-random-forest-s%C4%B1n%C4%B1fland%C4%B1rma)**
 
 ---
 
