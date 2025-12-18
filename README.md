@@ -1,46 +1,76 @@
-<!-- ========================= -->
-<!-- 🔥 AUTHOR / PROFILE BANNER -->
-<!-- ========================= -->
+<!-- ============================== -->
+<!-- 🔥 AUTHOR / PROFILE BANNER 🔥 -->
+<!-- ============================== -->
 
 <h1 align="center">👨‍💻 Görkem Cin</h1>
-<p align="center">Machine Learning & Data Science</p>
+
+<p align="center">
+  <strong>Machine Learning & Data Science</strong>
+</p>
+
 <p align="center">📍 Türkiye</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gorkem-cin/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/GorkemCin" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="mailto:gorkemcingc@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Author-Görkem%20Cin-4B9CD3?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Supervised%20Learning-28A745?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Python_3.13.3-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Author-Görkem%20Cin-4B9CD3?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-Supervised%20%26%20Unsupervised%20Learning-28A745?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-3.13.3-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
 </p>
 
 ---
 
-# 🧠 Machine Learning Projects
-### _Supervised Learning Portfolio (Regression, KNN, Decision Tree)_
+## 🧠 Machine Learning Projects
+
+This repository contains **end-to-end Machine Learning projects** covering both  
+**Supervised** and **Unsupervised Learning** approaches, built with real-world datasets
+and structured for learning, experimentation, and portfolio presentation.
 
 ---
 
-# machine_learning_with_supervised_models
+### 🔹 Supervised Learning Portfolio
+**Models & Topics:**
+- Linear & Multiple Linear Regression  
+- K-Nearest Neighbors (KNN)  
+- Decision Tree  
+- Random Forest  
 
-📘 Bu repo, gözetimli öğrenme (supervised learning) algoritmalarını öğrenmek amacıyla hazırlanmış kapsamlı bir çalışma koleksiyonudur.              
-🧠 Her proje, gerçek veri setleri üzerinde model geliştirme, hiperparametre optimizasyonu ve performans değerlendirme aşamalarını içermektedir.
+**Focus:**
+- Classification & Regression problems  
+- Feature engineering & preprocessing  
+- Model evaluation and interpretation  
 
-📘 This repository is a comprehensive collection of studies designed to learn supervised learning algorithms.            
-🧠 Each project includes steps for model development, hyperparameter optimization, and performance evaluation using real-world datasets.
+📁 Folder: `Machine_Learning/supervised/`
 
-📌 **Personal learning project on supervised machine learning algorithms using real-world datasets.**  
-📌 **Gerçek dünya verileriyle gözetimli makine öğrenmesi algoritmalarını öğrenme projesidir.**
+---
+
+### 🔸 Unsupervised Learning Portfolio
+**Models & Topics:**
+- K-Means Clustering  
+
+**Focus:**
+- Customer Segmentation  
+- Pattern discovery  
+- Distance-based learning  
+- Data scaling & cluster interpretation  
+
+📁 Folder: `Machine_Learning/unsupervised/`
+
+**Projects:**
+- 🛍️ **Customer Segmentation with K-Means**
+  - Dataset: Mall Customers
+  - Techniques: Scaling, Elbow Method, Cluster Visualization (2D & 3D)
+  - Goal: Discover meaningful customer segments without labeled data
 
 ---
 
