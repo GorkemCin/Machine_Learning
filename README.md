@@ -78,7 +78,7 @@ and structured for learning, experimentation, and portfolio presentation.
 
 ### 🔹 Unsupervised Learning Projects
 
-- 🧠 **[Project 5: K-Means Clustering / Proje 5: K-Means Kümeleme](https://github.com/GorkemCin/Machine_Learning/blob/main/README.md#-project-5-k-means-clustering--proje-5-k-means-k%C3%BCmeleme)**
+- 🧠 **[Project 5: K-Means Clustering / Proje 5: K-Means Kümeleme](#-project-5-k-means-clustering--proje-5-k-means-kümeleme)**
 
 ---
 
