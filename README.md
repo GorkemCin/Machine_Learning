@@ -71,13 +71,13 @@ and structured for learning, experimentation, and portfolio presentation.
 ## 📚 İçindekiler / Table of Contents
 
 ### 🔹 Supervised Learning Projects
-- 🌳 **[Project 1: Multiple Linear Regression / Proje 1: Çoklu Doğrusal Regresyon](#project-1-multiple-linear-regression--proje-1-%C3%A7oklu-do%C4%9Frusal-regresyon)**
-- 🏠 **[Project 2: K-Nearest Neighbors (KNN) / Proje 2: K-En Yakın Komşu (KNN)](#project-2-k-nearest-neighbors-knn--proje-2-k-en-yak%C4%B1n-kom%C5%9Fu-knn)**
-- 🌲 **[Project 3: Decision Tree Classifier / Proje 3: Karar Ağacı Sınıflandırıcı](#project-3-decision-tree-classifier--proje-3-karar-a%C4%9Fac%C4%B1-s%C4%B1n%C4%B1fland%C4%B1r%C4%B1c%C4%B1)**
-- 🌳 **[Project 4: Random Forest Classification / Proje 4: Random Forest Sınıflandırma](#project-4-random-forest-classification--proje-4-random-forest-s%C4%B1n%C4%B1fland%C4%B1rma)**
+- 🌿 **[Project 1: Multiple Linear Regression / Proje 1: Çoklu Doğrusal Regresyon](#-project-1-multiple-linear-regression--proje-1-%C3%A7oklu-do%C4%9Frusal-regresyon)**
+- 🏠 **[Project 2: K-Nearest Neighbors (KNN) / Proje 2: K-En Yakın Komşu (KNN)](#-project-2-k-nearest-neighbors-knn--proje-2-k-en-yak%C4%B1n-kom%C5%9Fu-knn)**
+- 🌲 **[Project 3: Decision Tree Classifier / Proje 3: Karar Ağacı Sınıflandırıcı](#-project-3-decision-tree-classifier--proje-3-karar-a%C4%9Fac%C4%B1-s%C4%B1n%C4%B1fland%C4%B1r%C4%B1c%C4%B1)**
+- 🌳 **[Project 4: Random Forest Classification / Proje 4: Random Forest Sınıflandırma](#-project-4-random-forest-classification--proje-4-random-forest-s%C4%B1n%C4%B1fland%C4%B1rma)**
 
 ### 🔹 Unsupervised Learning Projects
-- 🧠 **[Project 5: K-Means Clustering (Unsupervised Learning) / Proje 5: K-Means Kümeleme (Denetimsiz Öğrenme)](#project-5-k-means-clustering-unsupervised-learning--proje-5-k-means-k%C3%BCmeleme-denetimsiz-%C3%B6%C4%9Frenme)**
+- 🧠 **[Project 5: K-Means Clustering (Unsupervised Learning) / Proje 5: K-Means Kümeleme (Denetimsiz Öğrenme)](#-project-5-k-means-clustering--proje-5-k-means-k%C3%BCmeleme-unsupervised-learning)**
 
 ---
 
@@ -309,7 +309,7 @@ Bu bölümde etiketlenmemiş (unlabeled) veriler üzerinde yapılan kümeleme ve
 
 ---
 
-## 🌐 Project 5: K-Means Clustering / Proje 5: K-Means Kümeleme (Unsupervised Learning)
+## 🌐 Project 5: K-Means Clustering / Proje 5: K-Means Kümeleme 
 
 🎯 Problem Tanımı / Problem Definition
 
