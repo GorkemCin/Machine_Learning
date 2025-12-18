@@ -246,7 +246,7 @@ The optimized model achieved high accuracy on both training and test sets.
 
 ## 🌲 Project 4: Random Forest Classification / Proje 4: Random Forest Sınıflandırma
 
-🎯 Problem Tanımı / Problem Definition
+## 🎯 Problem Tanımı / Problem Definition
 
 Bu projede, medikal veriler kullanılarak **Random Forest Classification** algoritması ile ikili sınıflandırma problemi çözülmüştür. Amaç, bireylerin hedef sınıfa ait olup olmadığını doğru şekilde tahmin eden güçlü ve genellenebilir bir model geliştirmektir.
 
@@ -254,7 +254,7 @@ In this project, a **Random Forest Classification** model is built using medical
 
 ---
 
-🔍 Kullanılan Konular / Topics Covered
+## 🔍 Kullanılan Konular / Topics Covered
 
 - Veri analizi ve ön işleme / Exploratory Data Analysis (EDA)
 - Eksik veri kontrolü / Missing value handling
@@ -269,7 +269,7 @@ In this project, a **Random Forest Classification** model is built using medical
 
 ---
 
-🧪 Kullanılan Teknolojiler / Technologies Used
+## 🧪 Kullanılan Teknolojiler / Technologies Used
 
 - Python  
 - Pandas  
@@ -281,7 +281,7 @@ In this project, a **Random Forest Classification** model is built using medical
 
 ---
 
-📊 Model Değerlendirme / Model Evaluation
+## 📊 Model Değerlendirme / Model Evaluation
 
 - Accuracy  
 - Precision  
@@ -292,7 +292,7 @@ In this project, a **Random Forest Classification** model is built using medical
 
 ---
 
-🏁 Sonuç & Değerlendirme / Conclusion
+## 🏁 Sonuç & Değerlendirme / Conclusion
 
 Bu çalışmada Random Forest modeli, baseline ayarlarla dahi güçlü ve dengeli bir performans sergilemiştir (~%88 accuracy). GridSearchCV ile yapılan hiperparametre optimizasyonu sonucunda test performansında anlamlı bir artış gözlemlenmemiştir. Bu durum, başlangıç modelinin zaten iyi genelleme yapan ve overfitting riski düşük bir yapıya sahip olduğunu göstermektedir.
 
@@ -311,7 +311,7 @@ Bu bölümde etiketlenmemiş (unlabeled) veriler üzerinde yapılan kümeleme ve
 
 ## 🌐 Project 5: K-Means Clustering / Proje 5: K-Means Kümeleme 
 
-🎯 Problem Tanımı / Problem Definition
+## 🎯 Problem Tanımı / Problem Definition
 
 Bu projede, **etiketsiz müşteri verileri** kullanılarak **K-Means Clustering** algoritması ile müşteri segmentasyonu gerçekleştirilmiştir.  
 Amaç, müşterileri benzer davranış ve özelliklerine göre gruplandırarak anlamlı segmentler elde etmektir.
@@ -321,7 +321,7 @@ The goal is to group customers based on similar characteristics and spending beh
 
 ---
 
-🔍 Kullanılan Konular / Topics Covered
+## 🔍 Kullanılan Konular / Topics Covered
 
 - Veri analizi ve ön işleme / Exploratory Data Analysis (EDA)
 - Özellik seçimi / Feature selection
@@ -335,7 +335,7 @@ The goal is to group customers based on similar characteristics and spending beh
 
 ---
 
-🧪 Kullanılan Teknolojiler / Technologies Used
+## 🧪 Kullanılan Teknolojiler / Technologies Used
 
 - Python
 - Pandas
@@ -347,7 +347,7 @@ The goal is to group customers based on similar characteristics and spending beh
 
 ---
 
-📊 Model Değerlendirme / Model Evaluation
+## 📊 Model Değerlendirme / Model Evaluation
 
 Bu projede **gözetimsiz öğrenme** kullanıldığı için klasik accuracy gibi metrikler yerine:
 
@@ -360,7 +360,7 @@ Bu projede **gözetimsiz öğrenme** kullanıldığı için klasik accuracy gibi
 
 ---
 
-🧠 Sonuç & Değerlendirme / Conclusion
+## 🧠 Sonuç & Değerlendirme / Conclusion
 
 K-Means algoritması, müşteri verileri üzerinde **anlamlı ve dengeli kümeler** oluşturmuştur.  
 Elde edilen segmentler, müşteri davranışlarının farklı gelir ve harcama profilleri üzerinden net biçimde ayrıştığını göstermektedir.
