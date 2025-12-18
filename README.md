@@ -77,7 +77,8 @@ and structured for learning, experimentation, and portfolio presentation.
 - 🌳 **[Project 4: Random Forest Classification / Proje 4: Random Forest Sınıflandırma](#-project-4-random-forest-classification--proje-4-random-forest-s%C4%B1n%C4%B1fland%C4%B1rma)**
 
 ### 🔹 Unsupervised Learning Projects
-- 🧠 **[Project 5: K-Means Clustering (Unsupervised Learning) / Proje 5: K-Means Kümeleme (Denetimsiz Öğrenme)](#-project-5-k-means-clustering--proje-5-k-means-k%C3%BCmeleme-unsupervised-learning)**
+
+- 🧠 **[Project 5: K-Means Clustering / Proje 5: K-Means Kümeleme](https://github.com/GorkemCin/Machine_Learning/blob/main/README.md#-project-5-k-means-clustering--proje-5-k-means-k%C3%BCmeleme)**
 
 ---
 
