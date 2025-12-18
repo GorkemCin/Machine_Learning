@@ -66,37 +66,64 @@ and structured for learning, experimentation, and portfolio presentation.
 
 📁 Folder: `Machine_Learning/unsupervised/`
 
-**Projects:**
-- 🛍️ **Customer Segmentation with K-Means**
-  - Dataset: Mall Customers
-  - Techniques: Scaling, Elbow Method, Cluster Visualization (2D & 3D)
-  - Goal: Discover meaningful customer segments without labeled data
-
 ---
 
-# 📚 İçindekiler / Table of Contents
+## 📚 İçindekiler / Table of Contents
 
-- 🌳 **[Project 1: Multiple Linear Regression / Proje 1: Çoklu Doğrusal Regresyon](https://github.com/GorkemCin/Machine_Learning/blob/main/README.md#-project-1-multiple-linear-regression--proje-1-%C3%A7oklu-do%C4%9Frusal-regresyon)**
+### 🔹 Supervised Learning Projects
+- 🌳 **[Project 1: Multiple Linear Regression / Proje 1: Çoklu Doğrusal Regresyon](#project-1-multiple-linear-regression--proje-1-%C3%A7oklu-do%C4%9Frusal-regresyon)**
+- 🏠 **[Project 2: K-Nearest Neighbors (KNN) / Proje 2: K-En Yakın Komşu (KNN)](#project-2-k-nearest-neighbors-knn--proje-2-k-en-yak%C4%B1n-kom%C5%9Fu-knn)**
+- 🌲 **[Project 3: Decision Tree Classifier / Proje 3: Karar Ağacı Sınıflandırıcı](#project-3-decision-tree-classifier--proje-3-karar-a%C4%9Fac%C4%B1-s%C4%B1n%C4%B1fland%C4%B1r%C4%B1c%C4%B1)**
+- 🌳 **[Project 4: Random Forest Classification / Proje 4: Random Forest Sınıflandırma](#project-4-random-forest-classification--proje-4-random-forest-s%C4%B1n%C4%B1fland%C4%B1rma)**
 
-- 🏡 **[Project 2: K-Nearest Neighbors (KNN) / Proje 2: K-En Yakın Komşu (KNN)](https://github.com/GorkemCin/Machine_Learning/blob/main/README.md#-project-2-k-nearest-neighbors-knn--proje-2-k-en-yak%C4%B1n-kom%C5%9Fu-knn)**
-
-- 💊 **[Project 3: Decision Tree Classifier / Proje 3: Karar Ağacı Sınıflandırıcı](https://github.com/GorkemCin/Machine_Learning/blob/main/README.md#-project-3-decision-tree-classifier--proje-3-karar-a%C4%9Fac%C4%B1-s%C4%B1n%C4%B1fland%C4%B1r%C4%B1c%C4%B1)**
-
-- 🌲 **[Project 4: Random Forest Classification / Proje 4: Random Forest Sınıflandırma](#-project-4-random-forest-classification--proje-4-random-forest-s%C4%B1n%C4%B1fland%C4%B1rma)**
+### 🔹 Unsupervised Learning Projects
+- 🧠 **[Project 5: K-Means Clustering (Unsupervised Learning) / Proje 5: K-Means Kümeleme (Denetimsiz Öğrenme)](#project-5-k-means-clustering-unsupervised-learning--proje-5-k-means-k%C3%BCmeleme-denetimsiz-%C3%B6%C4%9Frenme)**
 
 ---
 
 ## 📊 Projects Overview / Proje Genel Bakışı
 
-A quick overview of all supervised learning projects included in this repository.  
-Bu depoda yer alan gözetimli öğrenme projelerinin genel özeti.
+This repository contains a structured portfolio of **Supervised** and **Unsupervised Machine Learning** projects, focusing on end-to-end workflows from data preprocessing to model interpretation.  
 
-| 🧩 Project | 🧠 Technique / Metot | 📌 Description / Açıklama | ✅ Status |
-|-----------|---------------------|---------------------------|----------|
-| 🌿 **Project 1: Multiple Linear Regression** | Regression | Predicting student performance using multi-feature linear regression. <br> Çoklu değişkenlerle öğrenci performansı tahmini. | ✔ Completed |
+Bu repo, veri ön işleme aşamasından model yorumlamaya kadar uçtan uca süreçleri içeren **Gözetimli (Supervised)** ve **Gözetimsiz (Unsupervised)** makine öğrenmesi projelerini barındırır.
+
+---
+
+## 🧠 Supervised Learning Projects
+
+| 🧩 Project | 🔬 Technique / Metot | 📌 Description / Açıklama | ✅ Status |
+|-----------|----------------------|--------------------------|----------|
+| 🌿 **Project 1: Multiple Linear Regression** | Regression | Predicting student performance using multiple numerical features. <br> Çoklu değişkenler kullanılarak öğrenci performansı tahmini. | ✔ Completed |
 | 🏠 **Project 2: K-Nearest Neighbors (KNN)** | Classification | House price classification (low/high) using KNN algorithm. <br> Ev fiyatlarının (düşük/yüksek) KNN ile sınıflandırılması. | ✔ Completed |
 | 🌳 **Project 3: Decision Tree Classifier** | Classification | Predicting drug class based on medical attributes using Decision Trees. <br> Tıbbi özelliklere göre ilaç sınıfı tahmini. | ✔ Completed |
-| 🌲 **Project 4: Random Forest Classifier** | Classification | Binary classification using Random Forest with hyperparameter tuning (GridSearchCV). <br> GridSearchCV ile optimize edilmiş Random Forest kullanarak ikili sınıflandırma. | ✔ Completed |
+| 🌲 **Project 4: Random Forest Classifier** | Classification | Binary classification with hyperparameter tuning using GridSearchCV. <br> GridSearchCV ile optimize edilmiş Random Forest modeli. | ✔ Completed |
+
+---
+
+## 🔍 Unsupervised Learning Projects
+
+| 🧩 Project | 🔬 Technique / Metot | 📌 Description / Açıklama | ✅ Status |
+|-----------|----------------------|--------------------------|----------|
+| 🧠 **Project 5: K-Means Clustering** | Clustering (Unsupervised) | Customer segmentation using K-Means based on Age, Annual Income and Spending Score. <br> Yaş, gelir ve harcama skoruna göre müşteri segmentasyonu. | ✔ Completed |
+
+---
+
+## 🎯 Summary / Özet
+
+- 📊 **Supervised Learning:** Regression & classification problems with full ML pipelines  
+- 🧠 **Unsupervised Learning:** Customer segmentation and clustering analysis  
+- 🧰 Libraries: `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`  
+- 🔍 Focus on **EDA, preprocessing, modeling, evaluation, and interpretation**
+
+This portfolio demonstrates a solid foundation in machine learning concepts with practical, real-world datasets.  
+Bu portföy, gerçek dünya veri setleri üzerinde uygulamalı ve sistematik bir makine öğrenmesi yaklaşımını yansıtmaktadır.
+
+---
+
+## 🧠 Supervised Learning Projects
+_Gözetimli Öğrenme Projeleri_
+
+Bu bölümde etiketli (labeled) veriler kullanılarak geliştirilen regresyon ve sınıflandırma projeleri yer almaktadır.
 
 ---
 
@@ -273,6 +300,77 @@ Sonuç olarak, hiperparametre optimizasyonu her zaman performans artışı sağl
 
 In conclusion, although hyperparameter tuning did not significantly improve test performance, it confirmed that the baseline Random Forest model was already well-optimized and robust.
 
+---
+
+## 🔍 Unsupervised Learning Projects
+_Gözetimsiz Öğrenme Projeleri_
+
+Bu bölümde etiketlenmemiş (unlabeled) veriler üzerinde yapılan kümeleme ve keşifsel analiz projeleri bulunmaktadır.
+
+---
+
+## 🌐 Project 5: K-Means Clustering / Proje 5: K-Means Kümeleme (Unsupervised Learning)
+
+🎯 Problem Tanımı / Problem Definition
+
+Bu projede, **etiketsiz müşteri verileri** kullanılarak **K-Means Clustering** algoritması ile müşteri segmentasyonu gerçekleştirilmiştir.  
+Amaç, müşterileri benzer davranış ve özelliklerine göre gruplandırarak anlamlı segmentler elde etmektir.
+
+In this project, **customer segmentation** is performed using the **K-Means clustering** algorithm on **unlabeled data**.  
+The goal is to group customers based on similar characteristics and spending behavior.
+
+---
+
+🔍 Kullanılan Konular / Topics Covered
+
+- Veri analizi ve ön işleme / Exploratory Data Analysis (EDA)
+- Özellik seçimi / Feature selection
+- Veri ölçeklendirme / Feature scaling (StandardScaler)
+- K-Means Clustering
+- Optimal küme sayısı belirleme / Choosing optimal K (Elbow Method)
+- Küme etiketleme / Cluster labeling
+- Küme dağılım analizi / Cluster size analysis
+- 2D & 3D küme görselleştirme / Cluster visualization
+- Küme yorumlama ve segment analizi / Cluster interpretation
+
+---
+
+🧪 Kullanılan Teknolojiler / Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+
+---
+
+📊 Model Değerlendirme / Model Evaluation
+
+Bu projede **gözetimsiz öğrenme** kullanıldığı için klasik accuracy gibi metrikler yerine:
+
+- Küme dağılımı (Cluster sizes)
+- Küme merkezleri (Centroids)
+- Görsel ayrışma (2D & 3D plots)
+- Segmentlerin iş anlamlılığı
+
+üzerinden değerlendirme yapılmıştır.
+
+---
+
+🧠 Sonuç & Değerlendirme / Conclusion
+
+K-Means algoritması, müşteri verileri üzerinde **anlamlı ve dengeli kümeler** oluşturmuştur.  
+Elde edilen segmentler, müşteri davranışlarının farklı gelir ve harcama profilleri üzerinden net biçimde ayrıştığını göstermektedir.
+
+In conclusion, K-Means clustering successfully identified **distinct and interpretable customer segments**,  
+demonstrating the effectiveness of unsupervised learning for customer segmentation tasks.
+
+Bu proje, **Unsupervised Learning** yaklaşımının iş problemlerinde nasıl değer üretebileceğini açıkça ortaya koymaktadır.
+
+---
 
 <div align="center">
 
